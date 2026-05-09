@@ -10,6 +10,8 @@ A very simple weather app using HTML, CSS, JavaScript, and OpenWeatherMap API.
 - Humidity
 - Wind speed
 
+## Website : https://imran-8.github.io/Weather_App/
+
 ## Setup
 
 1. Get a free API key from:
